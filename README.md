@@ -6,4 +6,4 @@
 - On Debian/Ubuntu: `sudo apt install fonts-font-awesome`
 
 ## Wallpaper
-- [wallpapersden](https://wallpapersden.com/adventures-lonely-night-out-wallpaper/)
+- [wallpapersden](https://wallpapersden.com/trip-night-wallpaper/)
