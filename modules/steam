@@ -1,5 +1,6 @@
 [module/steam]
 type = custom/script
+
 click-left = steam&
 click-middle = killall steam&
 exec = echo %{T3}%{T-}

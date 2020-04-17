@@ -1,5 +1,6 @@
 [module/firefox]
 type = custom/script
+
 click-left = firefox --browser&
 click-middle = killall firefox&
 click-right = firefox --private-window&
